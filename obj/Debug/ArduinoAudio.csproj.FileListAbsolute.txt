@@ -1,0 +1,40 @@
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\bin\Debug\ArduinoAudio.exe.config
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\bin\Debug\ArduinoAudio.exe
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\bin\Debug\ArduinoAudio.pdb
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\obj\Debug\ArduinoAudio.csprojAssemblyReference.cache
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\obj\Debug\ArduinoAudio.Properties.Resources.resources
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\obj\Debug\ArduinoAudio.csproj.GenerateResource.cache
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\obj\Debug\ArduinoAudio.exe
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\obj\Debug\ArduinoAudio.pdb
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\bin\Debug\NAudio.dll
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\bin\Debug\NAudio.xml
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\obj\Debug\ArduinoAudio.csproj.CopyComplete
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio\obj\Debug\ArduinoAudio.Form.resources
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\bin\Debug\ArduinoAudio.exe.config
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\bin\Debug\ArduinoAudio.exe
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\bin\Debug\ArduinoAudio.pdb
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\bin\Debug\NAudio.dll
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\bin\Debug\NAudio.xml
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\obj\Debug\ArduinoAudio.csprojAssemblyReference.cache
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\obj\Debug\ArduinoAudio.Form.resources
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\obj\Debug\ArduinoAudio.Properties.Resources.resources
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\obj\Debug\ArduinoAudio.csproj.GenerateResource.cache
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\obj\Debug\ArduinoAudio.csproj.CopyComplete
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\obj\Debug\ArduinoAudio.exe
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\obj\Debug\ArduinoAudio.pdb
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\bin\Debug\Solid.Arduino.dll
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio MainProject\bin\Debug\Solid.Arduino.xml
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\bin\Debug\ArduinoAudio.exe.config
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\bin\Debug\ArduinoAudio.exe
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\bin\Debug\ArduinoAudio.pdb
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\bin\Debug\NAudio.dll
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\bin\Debug\Solid.Arduino.dll
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\bin\Debug\NAudio.xml
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\bin\Debug\Solid.Arduino.xml
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.csprojAssemblyReference.cache
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.Form.resources
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.Properties.Resources.resources
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.csproj.GenerateResource.cache
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.csproj.CopyComplete
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.exe
+C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.pdb
