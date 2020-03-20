@@ -38,3 +38,17 @@ C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\
 C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.csproj.CopyComplete
 C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.exe
 C:\Users\loeka\OneDrive\Documenten\c# Projects\ArduinoAudio to Lite version\obj\Debug\ArduinoAudio.pdb
+C:\Users\loeka\Documents\### Github\RGBAudio\bin\Debug\ArduinoAudio.exe.config
+C:\Users\loeka\Documents\### Github\RGBAudio\bin\Debug\ArduinoAudio.exe
+C:\Users\loeka\Documents\### Github\RGBAudio\bin\Debug\ArduinoAudio.pdb
+C:\Users\loeka\Documents\### Github\RGBAudio\bin\Debug\NAudio.dll
+C:\Users\loeka\Documents\### Github\RGBAudio\bin\Debug\Solid.Arduino.dll
+C:\Users\loeka\Documents\### Github\RGBAudio\bin\Debug\NAudio.xml
+C:\Users\loeka\Documents\### Github\RGBAudio\bin\Debug\Solid.Arduino.xml
+C:\Users\loeka\Documents\### Github\RGBAudio\obj\Debug\ArduinoAudio.csprojAssemblyReference.cache
+C:\Users\loeka\Documents\### Github\RGBAudio\obj\Debug\ArduinoAudio.Form.resources
+C:\Users\loeka\Documents\### Github\RGBAudio\obj\Debug\ArduinoAudio.Properties.Resources.resources
+C:\Users\loeka\Documents\### Github\RGBAudio\obj\Debug\ArduinoAudio.csproj.GenerateResource.cache
+C:\Users\loeka\Documents\### Github\RGBAudio\obj\Debug\ArduinoAudio.csproj.CopyComplete
+C:\Users\loeka\Documents\### Github\RGBAudio\obj\Debug\ArduinoAudio.exe
+C:\Users\loeka\Documents\### Github\RGBAudio\obj\Debug\ArduinoAudio.pdb
