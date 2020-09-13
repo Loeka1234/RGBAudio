@@ -1,4 +1,4 @@
-!! This is a project made to learn C#, my coding skills were not good yet
+> ⚠️ This is a project made to learn C#, my coding skills were not good yet
 # RGBAudio
 A program made in C# to control a led with audio. The RGB led will be brighter on audio peaks. This project is made in my first year of learning C#. The code won't look clean but I did my best.
 # How to install
